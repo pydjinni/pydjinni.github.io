@@ -39,7 +39,7 @@ The VSCode extension provides a rich development experience in Visual Studio Cod
 
 <div class="hero-buttons" markdown>
 
-[:material-chat-alert: Coming soon!](){ .md-button .md-button .disabled }
+[:octicons-desktop-download-16: Install](https://marketplace.visualstudio.com/items?itemName=PyDjinni.pydjinni-vscode){ .md-button .md-button--primary }
 
 </div>
 
