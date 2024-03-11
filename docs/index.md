@@ -47,13 +47,13 @@ The VSCode extension provides a rich development experience in Visual Studio Cod
 
 <div class="feature-panel" markdown>
 
-<h3 markdown><span class="feature-icon" markdown>:simple-clion:</span>CLion Plugin</h3>
+<h3 markdown><span class="feature-icon" markdown>:simple-intellijidea:</span>IntelliJ Plugin</h3>
 
-The CLion plugin provides a rich development experience in Jetbrains CLion, including syntax highlighting, syntax error reporting and code navigation.
+The IntelliJ plugin provides a rich development experience in Jetbrains IDEs such as CLion, including syntax highlighting, syntax error reporting, and code navigation.
 
 <div class="hero-buttons" markdown>
 
-[:material-chat-alert: Coming Soon!](){ .md-button .md-button .disabled }
+[:octicons-desktop-download-16: Install](https://plugins.jetbrains.com/plugin/23931-pydjinni){ .md-button .md-button .md-button--primary }
 
 </div>
 
