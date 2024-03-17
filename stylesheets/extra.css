@@ -227,7 +227,7 @@
     background: none !important;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     .hero-buttons p {
         justify-content: center;
     }
@@ -235,7 +235,7 @@
         width: 100%;
     }
 
-    .hero-buttons a.md-button {
+    .main-feature-panels .hero-buttons a.md-button {
         flex-grow: 1;
     }
     
