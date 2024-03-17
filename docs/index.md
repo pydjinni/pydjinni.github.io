@@ -14,7 +14,7 @@ PyDjinni is a tool for generating cross-language type declarations and interface
 
 <br>
 
-<div class="secondary-feature-panels" markdown>
+<div class="main-feature-panels" markdown>
 
 <div class="feature-panel" markdown>
 
@@ -30,6 +30,12 @@ The PyDjinni CLI provides language interoperability glue-code generation and add
 </div>
 
 </div>
+
+</div>
+
+<div class="secondary-feature-panels" markdown>
+
+
 
 <div class="feature-panel" markdown>
 
@@ -54,6 +60,20 @@ The IntelliJ plugin provides a rich development experience in Jetbrains IDEs suc
 <div class="hero-buttons" markdown>
 
 [:octicons-desktop-download-16: Install](https://plugins.jetbrains.com/plugin/23931-pydjinni){ .md-button .md-button .md-button--primary }
+
+</div>
+
+</div>
+
+<div class="feature-panel" markdown>
+
+<h3 markdown><span class="feature-icon" markdown>:simple-visualstudio:</span>Visual Studio Extension</h3>
+
+The Visual Studio Extension provides a rich development experience, including syntax highlighting, syntax error reporting, and code navigation in Visual Studio 2022.
+
+<div class="hero-buttons" markdown>
+
+[:octicons-desktop-download-16: Install](https://marketplace.visualstudio.com/items?itemName=PyDjinni.PyDjinni){ .md-button .md-button .md-button--primary }
 
 </div>
 
