@@ -21,11 +21,26 @@ PyDjinni is a tool for generating cross-language type declarations and interface
 <h3 markdown><span class="feature-icon" markdown>:simple-python:</span>PyDjinni Toolchain</h3>
 
 The PyDjinni CLI provides language interoperability glue-code generation and additional utilities to help build, package and distribute cross-platform libraries.
+Everything needed is distributed as a single Python package.
 
 <div class="hero-buttons" markdown>
 
 [:octicons-desktop-download-16: Install](https://pypi.org/project/pydjinni/){ .md-button .md-button--primary }
 [Documentation](https://pydjinni.github.io/pydjinni/latest/){ .md-button }
+
+</div>
+
+</div>
+
+<div class="feature-panel" markdown>
+
+<h3 markdown><span class="feature-icon" markdown>:octicons-repo-template-24:</span>Project Template</h3>
+
+The PyDjinni Project Template demonstrates how to use PyDjinni with Conan and CMake to build a library for multiple different target systems, including iOS, Android and Windows.
+
+<div class="hero-buttons" markdown>
+
+[:simple-github: Use the template](https://github.com/pydjinni/pydjinni-project-template){ .md-button }
 
 </div>
 
@@ -59,7 +74,7 @@ The IntelliJ plugin provides a rich development experience in Jetbrains IDEs suc
 
 <div class="hero-buttons" markdown>
 
-[:octicons-desktop-download-16: Install](https://plugins.jetbrains.com/plugin/23931-pydjinni){ .md-button .md-button .md-button--primary }
+[:octicons-desktop-download-16: Install](https://plugins.jetbrains.com/plugin/23931-pydjinni){ .md-button .md-button--primary }
 
 </div>
 
@@ -73,7 +88,7 @@ The Visual Studio Extension provides a rich development experience, including sy
 
 <div class="hero-buttons" markdown>
 
-[:octicons-desktop-download-16: Install](https://marketplace.visualstudio.com/items?itemName=PyDjinni.PyDjinni){ .md-button .md-button .md-button--primary }
+[:octicons-desktop-download-16: Install](https://marketplace.visualstudio.com/items?itemName=PyDjinni.PyDjinni){ .md-button .md-button--primary }
 
 </div>
 
