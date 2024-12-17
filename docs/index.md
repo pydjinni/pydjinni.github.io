@@ -54,7 +54,7 @@ The PyDjinni Project Template demonstrates how to use PyDjinni with Conan and CM
 
 <div class="feature-panel" markdown>
 
-<h3 markdown><span class="feature-icon" markdown>:simple-visualstudiocode:</span>VSCode Extension</h3>
+<h3 markdown><span class="feature-icon" markdown>:material-microsoft-visual-studio-code:</span>VSCode Extension</h3>
 
 The VSCode extension provides a rich development experience in Visual Studio Code, including syntax highlighting, syntax error reporting and code navigation.
 
@@ -82,7 +82,7 @@ The IntelliJ plugin provides a rich development experience in Jetbrains IDEs suc
 
 <div class="feature-panel" markdown>
 
-<h3 markdown><span class="feature-icon" markdown>:simple-visualstudio:</span>Visual Studio Extension</h3>
+<h3 markdown><span class="feature-icon" markdown>:material-microsoft-visual-studio:</span>Visual Studio Extension</h3>
 
 The Visual Studio Extension provides a rich development experience, including syntax highlighting, syntax error reporting, and code navigation in Visual Studio 2022.
 
